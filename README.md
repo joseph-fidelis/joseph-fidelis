@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fidelis-joseph-uwem/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Josephfidelis7@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B2347065850167-green?style=flat&logo=whatsapp)](tel:+2347065850167)
+
 
 ## 🔧 Technical Skills
 
